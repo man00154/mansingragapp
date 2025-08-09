@@ -1,0 +1,15 @@
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+python-dotenv
+pypdf
+requests
+urllib3
+tqdm
+huggingface-hub
+langchain-community
+langchain-core
+langchain-groq
+beautifulsoup4
+lxml
